@@ -8,4 +8,6 @@ def main():
    text = get_book_text("books/frankenstein.txt")
    print(text)
 
+main()
+
 
